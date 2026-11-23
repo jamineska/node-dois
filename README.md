@@ -2,7 +2,8 @@
 
 API REST desarrollada con Node.js y Express bajo arquitetura modular (rutas y controladores) para la gestión CRUD de productos y servicios.
 
-##puesta en marcha
+## Puesta en marcha
+
 1. Clona el repositorio:
 
 ```bash
